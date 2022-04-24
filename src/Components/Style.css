@@ -6,7 +6,6 @@
     font-family: sans-serif;
 }
 .header{
-    display: flex;
     font-size: 45px; 
     padding: 0px;
     font-weight: bold;
@@ -20,7 +19,6 @@
     font-style: italic;
     display: flex;
     align-items: center;
-    padding-bottom: 150px;
     justify-content: center;
 }
 
@@ -35,8 +33,9 @@
 .searchbutton{
     padding: 15px;
     color:rgb(206, 88, 88);
-    font-style: bold;
+    border-style: solid;
     border: black, 10px;
+    background-color: white;
 }
 .searchbar{
     padding: 15px;

@@ -4,7 +4,8 @@ const Header = () => {
 
     return(
     <><div className='header'>
-            <h1>New York Child Care Facilities</h1>
+            <h1>New York</h1>
+            <h1>Child Care Facilities</h1>
         </div>
         <div><p className="child">Child care is important. Find the best fit for you and your child.</p></div>
         <div className='header1'>
