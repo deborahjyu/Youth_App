@@ -1,0 +1,117 @@
+* {
+    margin: 20px;
+    background-color: aliceblue;
+    border-color: black;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+.header{
+    display: flex;
+    font-size: 45px; 
+    padding: 0px;
+    font-weight: bold;
+    color:rgb(206, 88, 88);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.child{
+    font-size: 20px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    padding-bottom: 150px;
+    justify-content: center;
+}
+
+.header1{
+    padding-bottom: 0px;
+    font-size: 15px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchbutton{
+    padding: 15px;
+    color:rgb(206, 88, 88);
+    font-style: bold;
+    border: black, 10px;
+}
+.searchbar{
+    padding: 15px;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name{
+    display: flex;
+    font-size: 35px; 
+    padding-top: 20px;
+    padding-left:15px;
+    font-weight: bold;
+    color:rgb(206, 88, 88);
+    align-items: center;
+
+}
+.city{
+    display: flex;
+    font-size: 15px; 
+    color:black;
+    align-items: center;
+    padding-left: 15px;
+}
+.state{
+    display: flex;
+    font-size: 15px; 
+    color:black;
+    align-items: center;
+    padding-left: 15px;
+}
+
+.phone{
+    display: flex;
+    font-size: 15px; 
+    color:black;
+    align-items: center;
+    padding-left: 15px;
+}   
+.description{
+    display: flex;
+    font-size: 15px; 
+    color:black;
+    align-items: center;
+    padding-bottom: 10px;
+} 
+
+.a{
+    font-size: 15px;
+    padding: 0px;
+    color: black;
+}
+
+.zipcode{
+    display: flex;
+    font-size: 15px; 
+    color:black;
+    align-items: center;
+    padding-left: 15px;
+}
+.capacity{
+    display: flex;
+    font-size: 15px; 
+    color:black;
+    align-items: center;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.indOrg{
+    flex-direction: column;
+    padding: 10px;
+    border: 10px solid rgb(85, 85, 216);
+}
